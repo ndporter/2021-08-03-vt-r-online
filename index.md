@@ -13,8 +13,8 @@ humandate: "August 3-4, 2021"    # human-readable dates for the workshop (e.g., 
 humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-08-03      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-08-04        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Nathaniel Porter, D. Sarah Stamps, James McClure, Traci DuBose"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Matthew Brown, Christopher Barb, Mariana Castaneda, Jesse Sadler, Shamar Stewart, Kara Long"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Nathaniel Porter", "D. Sarah Stamps", "James McClure", "Traci DuBose"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Matthew Brown", "Christopher Barb", "Mariana Castaneda", "Jesse Sadler", "Shamar Stewart", "Kara Long"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["ndporter@vt.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://docs.google.com/document/d/11zCWQEr3Oglmp937Qilc9ev3oLp85-q_tHFBgd-kjqA/edit?usp=sharing # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 ---
